@@ -35,8 +35,8 @@ sentiment_project/
 
 1.  **Clone the Repository (or create your project folder)**
     ```bash
-    git clone <your-repo-url>
-    cd sentiment_project
+    git clone https://github.com/Nesril/min-project-imddb-reviews
+    cd min-project-imddb-reviews
     ```
 
 2.  **Download the Dataset**
